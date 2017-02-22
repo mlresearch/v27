@@ -24,7 +24,9 @@ sections:
 author:
 - given: R.
   family: Salakhutdinov
-- given: J. Tenenbaum A.
+- given: J.
+  family: Tenenbaum
+- given: A.
   family: Torralba
 date: '2012-06-27 00:03:15'
 publisher: PMLR
