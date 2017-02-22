@@ -14,15 +14,18 @@ abstract: "We develop a hierarchical Bayesian model that learns categories from 
   than simpler hierarchical Bayesian approaches. It can also discover new categories
   in a completely unsupervised fashion, given just one or a few examples."
 layout: inproceedings
-key: salakhutdinov12a
+id: salakhutdinov12a
 month: 0
 firstpage: 195
 lastpage: 206
+page: 195-206
 origpdf: http://jmlr.org/proceedings/papers/v27/salakhutdinov12a.pdf
 sections: 
-authors:
+author:
 - given: R.
   family: Salakhutdinov
 - given: J. Tenenbaum A.
   family: Torralba
+date: '2012-06-27 00:03:15'
+publisher: PMLR
 ---

@@ -20,12 +20,12 @@ sections:
 - name: default
   title: Advances in transfer learning
 layout: proceedings
-key: UTLW-2011
+id: UTLW-2011
 month: 0
 abstract: 
 origpdf: 
 pdf: "./UTLW-2011/UTLW-2011.pdf"
-editors:
+editor:
 - given: Isabelle
   family: Guyon
 - given: Gideon
