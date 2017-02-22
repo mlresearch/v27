@@ -1,0 +1,44 @@
+# Site settings
+# Auto generated from v27.bib
+---
+booktitle: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
+publisher: JMLR Workshop and Conference Proceedings
+volume: 27
+year: '2011'
+shortname: UTLW
+sections:
+- name: intro
+  title: Introduction
+- name: theory
+  title: Fundamentals and theory
+- name: challenge
+  title: Challenge contributions
+- name: default
+  title: Advances in transfer learning
+layout: proceedings
+key: UTLW-2011
+month: 0
+abstract: 
+origpdf: 
+pdf: "./UTLW-2011/UTLW-2011.pdf"
+editors:
+- given: Isabelle
+  family: Guyon
+- given: Gideon
+  family: Dror
+- given: Vincent
+  family: Lemaire
+- given: Graham
+  family: Taylor
+- given: Daniel
+  family: Silver
+title: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
+conference: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
+email: ''
+description: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
+url: http://proceedings.mlr.press
+baseurl: "/v27"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"

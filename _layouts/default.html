@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+    
+    <center>This document last modified {{ site.time }}</center>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
