@@ -49,3 +49,6 @@ markdown: kramdown
 permalink: "/:title.html"
 gitub:
   edit: true
+analytics:
+  google:
+    tracking_id: UA-92432422-1
