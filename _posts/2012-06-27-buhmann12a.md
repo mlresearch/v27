@@ -1,0 +1,33 @@
+---
+pdf: "./buhmann12a/buhmann12a.pdf"
+section: theory
+title: Information Theoretic Model Selection for Pattern Analysis
+abstract: Exploratory data analysis requires (i) to define a set of patterns hypothesized
+  to exist in the data, (ii) to specify a suitable quantification principle or cost
+  function to rank these patterns and (iii) to validate the inferred patterns. For
+  data clustering, the patterns are object partitionings into k groups; for PCA or
+  truncated SVD, the patterns are orthogonal transformations with projections to a
+  low-dimensional space. We propose an information theoretic principle for model selection
+  and model-order selection. Our principle ranks competing pattern cost functions
+  according to their ability to extract context sensitive information from noisy data
+  with respect to the chosen hypothesis class. Sets of approximative solutions serve
+  as a basis for a communication protocol. Analogous to ?, inferred models maximize
+  the so-called approximation capacity that is the mutual information between coarsened
+  training data patterns and coarsened test data patterns. We demonstrate how to apply
+  our validation framework by the well-known Gaussian mixture model and by a multi-label
+  clustering approach for role mining in binary user privilege assignments.
+layout: inproceedings
+key: buhmann12a
+month: 0
+firstpage: 51
+lastpage: 64
+origpdf: http://jmlr.org/proceedings/papers/v27/buhmann12a.pdf
+sections: 
+authors:
+- given: J.M.
+  family: Buhmann
+- given: M.H.
+  family: Chehreghani
+- given: M. Frank A.P.
+  family: Streich
+---

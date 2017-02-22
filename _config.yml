@@ -6,6 +6,10 @@ publisher: JMLR Workshop and Conference Proceedings
 volume: 27
 year: '2011'
 shortname: UTLW
+start: 2011-07-02
+end: 2011-07-02
+published: 2012-06-27
+address: Bellevue, Washington, USA
 sections:
 - name: intro
   title: Introduction
@@ -35,7 +39,8 @@ editors:
 title: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
 conference: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
 email: ''
-description: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
+description: Proceedings of ICML Workshop on Unsupervised and Transfer Learning, Bellevue,
+  Washington, USA
 url: http://proceedings.mlr.press
 baseurl: "/v27"
 twitter_username: mlresearch

@@ -1,0 +1,28 @@
+---
+pdf: "./silver12a/silver12a.pdf"
+section: intro
+title: ICML2011 Unsupervised and Transfer Learning Workshop
+abstract: We organized a data mining challenge in ``unsupervised and transfer learning''
+  (the UTL challenge) followed by a workshop of the same name at the ICML 2011 conference
+  in Bellevue, Washington. This introduction presents the highlights of the outstanding
+  contributions that were made, which are regrouped in this issue of JMLR W&CP. Novel
+  methodologies emerged to capitalize on large volumes of unlabeled data from tasks
+  related (but different) from a target task, including a method to learn data kernels
+  (similarity measures) and new deep architectures for feature learning.
+layout: inproceedings
+key: silver12a
+month: 0
+firstpage: 1
+lastpage: 15
+origpdf: http://jmlr.org/proceedings/papers/v27/silver12a.pdf
+sections: 
+authors:
+- given: D.L.
+  family: Silver
+- given: I.
+  family: Guyon
+- given: G.
+  family: Taylor
+- given: G. Dror V.
+  family: Lemaire
+---
