@@ -29,6 +29,7 @@ author:
 - given: A.
   family: Torralba
 date: 2012-06-27
+address: Bellevue, Washington, USA
 publisher: PMLR
 container-title: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
 volume: '27'
