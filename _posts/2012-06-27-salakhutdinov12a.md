@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.pmlr.press/salakhutdinov12a/salakhutdinov12a.pdf
+pdf: http://jmlr.org/proceedings/papers/v27/salakhutdinov12a.pdf
 title: One-Shot Learning with a Hierarchical  Nonparametric Bayesian Model
 abstract: "We develop a hierarchical Bayesian model that learns categories from single
   training examples. The model transfers acquired knowledge from previously learned
@@ -19,7 +19,6 @@ month: 0
 firstpage: 195
 lastpage: 206
 page: 195-206
-origpdf: http://jmlr.org/proceedings/papers/v27/salakhutdinov12a.pdf
 sections: 
 author:
 - given: R.
@@ -28,6 +27,7 @@ author:
   family: Tenenbaum
 - given: A.
   family: Torralba
+reponame: v27
 date: 2012-06-27
 address: Bellevue, Washington, USA
 publisher: PMLR
