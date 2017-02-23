@@ -9,7 +9,6 @@ shortname: UTLW
 start: 2011-07-02
 end: 2011-07-02
 published: 2012-06-27
-address: Bellevue, Washington, USA
 sections:
 - name: intro
   title: Introduction
@@ -22,9 +21,9 @@ sections:
 layout: proceedings
 id: UTLW-2011
 month: 0
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./UTLW-2011/UTLW-2011.pdf"
+pdf: http://proceedings.pmlr.press/UTLW-2011/UTLW-2011.pdf
 editor:
 - given: Isabelle
   family: Guyon
@@ -37,7 +36,6 @@ editor:
 - given: Daniel
   family: Silver
 title: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
-conference: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
 email: ''
 description: Proceedings of ICML Workshop on Unsupervised and Transfer Learning, Bellevue,
   Washington, USA
@@ -47,8 +45,15 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v27
+conference:
+  name: 
+  url: 
+  location: Bellevue, Washington, USA
+  dates:
+  - 2011-07-02
 analytics:
   google:
     tracking_id: UA-92432422-1
