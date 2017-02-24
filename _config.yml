@@ -1,5 +1,3 @@
-# Site settings
-# Auto generated from v27.bib
 ---
 booktitle: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
 publisher: JMLR Workshop and Conference Proceedings
@@ -19,6 +17,7 @@ sections:
 - name: default
   title: Advances in transfer learning
 layout: proceedings
+series: Proceedings of Machine Learning Research
 id: UTLW-2011
 month: 0
 abstract: ''
@@ -55,3 +54,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v27.bib

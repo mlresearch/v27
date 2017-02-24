@@ -14,6 +14,7 @@ abstract: "We develop a hierarchical Bayesian model that learns categories from 
   than simpler hierarchical Bayesian approaches. It can also discover new categories
   in a completely unsupervised fashion, given just one or a few examples."
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: salakhutdinov12a
 month: 0
 firstpage: 195

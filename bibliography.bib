@@ -6,8 +6,8 @@ layout: null
 {% assign c = '}' %}
 
 @Proceedings{{o}}{{ site.shortname }}{{ site.year }},
-  title =     {{o}}{{ post.booktitle }}{{c}},
-  booktitle = {{o}}{{ post.booktitle }}{{c}},
+  title =     {{o}}{{ site.title }}{{c}},
+  booktitle = {{o}}{{ site.title }}{{c}},
   editor =    {{o}}{% assign lastone = site.editor.last %}{% for person in site.editor %}{{ person.given }} {{ person.family }}{% unless person == lastone %} and {%endunless %}{% endfor %}{{c}},
   publisher = {PMLR},
   volume =    {{ site.volume }}
@@ -21,7 +21,7 @@ layout: null
   editor =    {{o}}{% assign lastone = site.editor.last %}{% for person in site.editor %}{{ person.given }} {{ person.family }}{% unless person == lastone %} and {%endunless %}{% endfor %}{{c}},
   publisher = {PMLR},
   volume =    {{ site.volume }},
-  booktitle = {{o}}{{ post.booktitle }}{{c}},
+  booktitle = {{o}}{{ post.container-title }}{{c}},
   pages =     {{o}}{{ post.page }}{{c}},
   pdf =       {{o}}{{ post.pdf }}{{c}},
   url =       {{o}}{{site.url}}{{site.baseurl}}{{ post.url }}{{c}},
