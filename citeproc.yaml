@@ -10,7 +10,7 @@ layout: null
   issue: {{ post.issue }}{% endif %}{% if post.series %}
   series: "{{ post.series }}"{% endif %}
   container-title: "{{ post.container-title }}"
-  publisher: {{ post.publisher }}  
+  publisher: "{{ post.publisher }}"
   author: {% for person in post.author %}
   - family: {{ person.family }}
     given: {{ person.given }}{% if person.orcid %}
