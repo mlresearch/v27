@@ -10,6 +10,7 @@ layout: null
   booktitle = {{o}}{{ site.title }}{{c}},
   editor =    {{o}}{% assign lastone = site.editor.last %}{% for person in site.editor %}{{ person.given }} {{ person.family }}{% unless person == lastone %} and {%endunless %}{% endfor %}{{c}},
   publisher = {PMLR},
+  series =    {Proceedings of Machine Learning Research},
   volume =    {{ site.volume }}
 {{c}}
 {% assign sorted = (site.posts | sort: 'firstpage') %}
@@ -20,6 +21,7 @@ layout: null
   author =    {{o}}{% assign lastone = post.author.last %}{% for person in post.author %}{{ person.given }} {{ person.family }}{% unless person == lastone %} and {%endunless %}{% endfor %}{{c}},
   editor =    {{o}}{% assign lastone = site.editor.last %}{% for person in site.editor %}{{ person.given }} {{ person.family }}{% unless person == lastone %} and {%endunless %}{% endfor %}{{c}},
   publisher = {PMLR},
+  series =    {Proceedings of Machine Learning Research},
   volume =    {{ site.volume }},
   booktitle = {{o}}{{ post.container-title }}{{c}},
   pages =     {{o}}{{ post.page }}{{c}},
