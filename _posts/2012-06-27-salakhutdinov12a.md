@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: salakhutdinov12a
 month: 0
+tex_title: One-Shot Learning with a Hierarchical  Nonparametric Bayesian Model
 firstpage: 195
 lastpage: 206
 page: 195-206
