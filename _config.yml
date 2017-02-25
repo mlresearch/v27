@@ -49,6 +49,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 02 Jul
 url: http://proceedings.mlr.press
 baseurl: "/v27"
 twitter_username: mlresearch
@@ -58,6 +59,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v27
+bibtex_copy: true
 email: ''
 conference:
   name: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
