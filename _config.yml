@@ -60,6 +60,8 @@ github:
   edit: true
   repository: v27
 bibtex_copy: true
+endnote_copy: true
+apa_copy: true
 email: ''
 conference:
   name: Proceedings of ICML Workshop on Unsupervised and Transfer Learning
