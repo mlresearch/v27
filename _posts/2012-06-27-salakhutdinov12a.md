@@ -21,7 +21,8 @@ tex_title: One-Shot Learning with a Hierarchical  Nonparametric Bayesian Model
 firstpage: 195
 lastpage: 206
 page: 195-206
-sections: 
+order: 195
+cycles: false
 author:
 - given: R.
   family: Salakhutdinov
