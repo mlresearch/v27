@@ -20,9 +20,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: UTLW-2011
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Isabelle
@@ -35,6 +32,7 @@ editor:
   family: Taylor
 - given: Daniel
   family: Silver
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of ICML Workshop on Unsupervised and Transfer Learning
     Held in Bellevue, Washington, USA on 02 July 2011
@@ -53,7 +51,7 @@ description: |
 date_str: 02 Jul
 url: http://proceedings.mlr.press
 baseurl: "/v27"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -65,6 +63,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -78,3 +77,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v27.bib
+---
